@@ -1,0 +1,14 @@
+[
+    {
+        "Department":"Cyric",
+        "Action":"Glad you found our page about Cyric! We on behalf of Service Planet hope that you will find what you are looking for here. We try to provide you with additional knowledge about Cyric and the functionalities it offers through this page. Cyric has grown into a European product over the years. We are very proud of this! Are you stuck? Or do you not find the answer to your question? Please feel free to contact us! The Cyric team is ready for you."
+    },
+    {
+        "Department":"Repair",
+        "Action":"The inhouse department consist of logistics, refurbishments and the technical department. We receive the products, book them in. Then make an assessment based on the intention(RFB, EXT or VRT) and give the appropriate service. In case of VRT we make a DOA assessment and handle the case for the customer. In case of a RFB we refurbish the product for the customer so that the product can be sold again. In case of a EXT we repair the product for the customer and ship it back. Our logistic handles all the intake and shipping for all this."
+    },
+    {
+        "Department":"Refurbishment",
+        "Action":"The refurbishment department is responsible for making the products eligible for resale in 3 categories, these are: New, good as new, disapproved(damaged)."
+    }
+]
